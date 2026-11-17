@@ -1,0 +1,8 @@
+{
+  "name": "Sheets Made Simple",
+  "description": "Organize your business sales, expenses, customer debts, and inventory in 10 minutes a day with the Excel Starter Pack for Small Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
